@@ -16,7 +16,7 @@ The Airbnb market is highly competitive, and both hosts and Airbnb as a platform
   
   -Availability trends and demand-supply gaps.
 
-## Dataset used   
+  
 
 ## The project aims to:
 
